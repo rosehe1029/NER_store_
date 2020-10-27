@@ -1,0 +1,13 @@
+process_by_mosha.json:
+id：每个语段的编号
+text：语段内容
+annotations：空间标注
+label: 标签编号,
+        "start_offset": 起始位置编码,
+        "end_offset": 结束位置编码,
+        "entity": 实体名称,
+        "label_name": 标签名称,
+        "start_offset_new": 起始位置编码,
+        "end_offset_new": 结束位置编码,
+        "entity_new": "实体名称
+text_new：语段内容
